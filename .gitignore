@@ -43,3 +43,4 @@ secrets.yml
 push-to-github.bat
 powershell.cmd
 run.bat
+format.pdf
